@@ -5,7 +5,7 @@
 ### Prerequisites
 - Node.js
 - npm (Node Package Manager)
-- MongoDB (or any preferred database)
+- MongoDB Cloud
 
 ### Installation
 1. Clone the repository:
