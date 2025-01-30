@@ -1,5 +1,4 @@
-# Project Name
-### Event Managment App
+# Event Managment App
 
 ## Getting Started
 
